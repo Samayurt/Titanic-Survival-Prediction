@@ -4,12 +4,19 @@ Supervised Learning ( Logistic regression, Random Forest Classifier , Neural Net
 **Classification:**
 
 **Python Libraries Used**
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 sklearn
+
 tensorflow
+
 Keras
 
 **Models Implemented:**
@@ -25,6 +32,7 @@ Accuracy
 F1 score
 
 **Notebook**: Titanic_Survival_Prediction.ipynb
+
 **Documentation**: Titanic_Survival_Prediction.pdf
 
 **Dependecies:**
